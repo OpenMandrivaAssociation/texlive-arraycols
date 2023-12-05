@@ -1,6 +1,6 @@
 Name:		texlive-arraycols
-Version:	61719
-Release:	2
+Version:	68277
+Release:	1
 Summary:	New column types for array and tabular environments
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/arraycols
