@@ -1,5 +1,5 @@
 Name:		texlive-arraycols
-Version:	68277
+Version:	71168
 Release:	1
 Summary:	New column types for array and tabular environments
 Group:		Publishing
