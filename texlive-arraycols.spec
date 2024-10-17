@@ -3,7 +3,7 @@ Version:	71168
 Release:	1
 Summary:	New column types for array and tabular environments
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/arraycols
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/arraycols
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arraycols.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arraycols.doc.r%{version}.tar.xz
